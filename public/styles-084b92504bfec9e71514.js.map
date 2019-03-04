@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/components/fancy-paragraph.module.css"],"names":["module","exports","fancy"],"mappings":"mGACAA,EAAAC,QAAA,CAAkBC,MAAA","file":"styles-084b92504bfec9e71514.js","sourcesContent":["// extracted by mini-css-extract-plugin\nmodule.exports = {\"fancy\":\"fancy-paragraph-module--fancy--28UTm\"};"],"sourceRoot":""}
